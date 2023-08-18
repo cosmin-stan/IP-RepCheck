@@ -11,3 +11,11 @@ Before using this script, make sure you have:
 - Python 3.x installed
 - Python packages (requests, xlwt)
   
+## Installation
+
+1. Clone this repository
+2. Install the required Python packages
+```
+pip install requests
+pip install xlwt
+```
