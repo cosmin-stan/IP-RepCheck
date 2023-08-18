@@ -28,8 +28,14 @@ python3 RF-IPcheck.py
 ```
 This script will query the RF API for each IP address listed in the txt file and display the info in the terminal.
 
+![image](https://github.com/cosmin-stan/Recorded-Future-API-Check/blob/main/RF-API-terminal.png)
+
+It will list an error for unknown IPs.
+
 OR
 ```
 python3 RF_IPcheck_xls.py
 ```
 This script will query the RF API for each IP address listed in the txt file and create an Excel file named ip_address.xls containing the information.
+
+![image](https://github.com/cosmin-stan/Recorded-Future-API-Check/blob/main/RF-API-xls.png)
